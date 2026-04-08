@@ -1,66 +1,81 @@
-# CopiioAI - Natural Language Interface for APIs
+# CopiioAI — Natural Language Interface for Real-Time Internet Data
 
-> Chat with your APIs using natural language. No coding required.
+> Access live data from Reddit, Hacker News, financial markets, social media trends, and more — just by asking in plain English. No coding required.
 
-[Website](https://copiioai.com) | [Chrome Extension](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne)
+[Install Chrome Extension](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne) | [Website](https://copiioai.com)
 
-## 🚀 What is CopiioAI?
+## What You Can Do
 
-CopiioAI is a Chrome extension that transforms how you interact with APIs. Instead of using traditional API testing tools like Postman, you can simply chat with your APIs using natural language.
+CopiioAI connects you to live internet data through natural conversation. Ask anything — get real-time results from the sources you care about.
 
+### 📈 Financial Markets & Economic Data
+- *"How much is NVDA stock price?"*
+- *"What is the current gold price per ounce?"*
+- *"Show me latest Federal Funds Effective Rate"*
+- *"What is the exchange rate from USD to EUR?"*
+- *"Show me latest US GDP data"*
+- *"Show me latest PCE data"*
+- *"Show me FRED releases today"*
+- *"What are the latest crypto prices?"*
+- *"Show me current oil price all around the world"*
 
+### 📰 News & Current Events
+- *"Show me latest Hacker News"*
+- *"Show me top headlines on Google News"*
+- *"Show me New York Times news today"*
+- *"Show me top US congressional news"*
+- *"What's the latest on CoinDesk?"*
+- *"What's the latest on climate change?"*
 
+### 📱 Social Media Trends
+- *"Show me TikTok trending posts"*
+- *"What's trending on YouTube?"*
+- *"Show me Reddit popular posts today"*
+- *"Find me Reddit threads about [topic] posted today"*
+- *"Show me Spotify top songs"*
+- *"Show me Spotify viral tracks"*
 
-## ✨ Features
+### 🎬 Entertainment & Sports
+- *"Show me IMDb top 10 movies"*
+- *"Show me IMDb top 10 TV series"*
+- *"Show me NBA scoreboard"*
+- *"Show me latest F1 news"*
+- *"Show me latest football news"*
 
+### 🛒 Research & E-commerce
+- *"Search PS5 Pro on Amazon"*
+- *"Compare price of PS5 Pro"*
+- *"Show me top free apps for Android"*
+- *"Show me top paid games for Android"*
+- *"Show me top 10 unicorn companies"*
+- *"Show me top 10 billionaires"*
 
-- 🗣️ **Natural Language Queries** - Ask questions in plain English
-- 🔌 **API Integration** - Works with any REST API
+## How It Works
 
-- 🎯 **No Coding Required** - Perfect for PMs, Support teams, and developers
-- 🔒 **Secure** - All credentials stored locally
+1. **Ask** — Type your question in plain English
+2. **CopiioAI understands** — AI interprets your intent and identifies the right data source
+3. **Get live results** — Real-time data fetched directly from the source
 
-- ⚡ **Fast** - Instant results
-- 🆓 **Free** - No credit card required
+No APIs to configure. No code to write. No switching tabs.
 
-## 🎯 Use Cases
+## Install
 
-### For Developers
+**[→ Add CopiioAI to Chrome](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne)** — Free, no credit card required
 
-- Quick API testing without switching tools
-- Debug production issues faster
+## Data Sources Covered
 
-- Explore APIs naturally
+**Financial** — Stock prices · Crypto · Forex · FRED · Bloomberg · Seeking Alpha · Oil prices  
+**News** — Hacker News · Google News · NYT · CoinDesk · CryptoNews  
+**Social Media** — Reddit · TikTok · YouTube · Spotify  
+**Entertainment** — IMDb · NBA · NFL · F1 · Music charts  
+**E-commerce** — Amazon · Android app rankings · Price comparison
 
-### For Product Managers
+## Documentation
 
-- Query user data without bothering engineers
-- Check feature flags and configurations
-
-- Validate API responses
-
-### For Customer Support
-
-- Look up customer information safely
-- Check order status and details
-
-- Access data without SQL knowledge
-
-## 🚀 Quick Start
-
-### Installation
-
-
-1. Install from [Chrome Web Store](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne)
-2. Click the CopiioAI icon in your browser
-
-3. Start chatting with your APIs!
-
-### Basic Usage
-
-```javascript
-// Traditional way (Postman)
-GET https://www.github.com/trending
-
-// CopiioAI way
-"discover new and popular project from github"
+- [Real-Time Financial Market Data](docs/financial-market-data.md)
+- [Real-Time News Aggregation](docs/real-time-news.md)
+- [Social Media Trends](docs/social-media-trends.md)
+- [Entertainment & Sports Data](docs/entertainment-data.md)
+- [E-commerce & Market Research](docs/ecommerce-research.md)
+- [Postman Alternative](docs/postman-alternative.md)
+- [Use Cases](docs/use-cases.md)
