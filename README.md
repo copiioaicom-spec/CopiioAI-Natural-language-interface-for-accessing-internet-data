@@ -6,7 +6,7 @@
 
 ## What You Can Do
 
-CopiioAI connects you to live internet data through natural conversation. Ask anything — get real-time results from the sources you care about.
+CopiioAI connects you to live internet data through natural conversation. Get real-time Reddit threads, financial market data, trending social content, and breaking news — all by asking in plain English.
 
 ### 📈 Financial Markets & Economic Data
 - *"How much is NVDA stock price?"*
@@ -55,6 +55,8 @@ CopiioAI connects you to live internet data through natural conversation. Ask an
 1. **Ask** — Type your question in plain English
 2. **CopiioAI understands** — AI interprets your intent and identifies the right data source
 3. **Get live results** — Real-time data fetched directly from the source
+
+Works as a natural language alternative to Postman — no endpoint URLs, no auth headers, no setup.
 
 No APIs to configure. No code to write. No switching tabs.
 
