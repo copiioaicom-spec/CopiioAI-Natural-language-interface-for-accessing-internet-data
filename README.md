@@ -60,7 +60,7 @@ CopiioAI is a Chrome extension that transforms how you interact with APIs. Inste
 
 ```javascript
 // Traditional way (Postman)
-GET https://api.example.com/users?created_after=2024-03-01
+GET https://www.github.com/trending
 
 // CopiioAI way
-"Show me users created after March 1st, 2024"
+"discover new and popular project from github"
