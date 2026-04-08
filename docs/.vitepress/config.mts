@@ -8,6 +8,7 @@ export default defineConfig({
     ['meta', { name: 'keywords', content: 'natural language, real-time internet data, API access, Postman alternative, developer tools, chrome extension' }],
     ['link', { rel: 'canonical', href: 'https://copiioaicom-spec.github.io/copiioai/' }],
   ],
+  srcExclude: ['superpowers/**'],
   ignoreDeadLinks: true,
   sitemap: {
     hostname: 'https://copiioaicom-spec.github.io/copiioai/'
